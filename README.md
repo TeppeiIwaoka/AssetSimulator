@@ -29,7 +29,7 @@ pip install numpy matplotlib
    - Adjusts the remaining income after considering the cost of living index for each country.
 
 4. **Investment Strategy:**
-   - A portion of the remaining income (defined by `investment_rate(=0.30)`) is invested annually.
+   - A portion of the remaining income (defined by `investment_rate(=0.20)`) is invested annually.
    - The investment grows at a specified annual return rate (`annual_return(=0.05)`).
 
 5. **Capital Gains Tax:**

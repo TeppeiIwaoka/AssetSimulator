@@ -66,7 +66,7 @@ countries_data = {
 
 # Simulation parameters
 years = 30
-investment_rate = 0.30
+investment_rate = 0.20
 annual_return = 0.05
 actual_cost_of_living_ratio_in_japan = 0.60
 base_cost_of_living_index = countries_data['Japan']['cost_of_living_index']
