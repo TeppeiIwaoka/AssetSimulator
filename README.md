@@ -98,7 +98,7 @@ Google Software Engineer / Any Experience (Total Pay Average) as of 2023-12-12:
 
 [Google Software Engineer Salaries from glassdoor](https://www.glassdoor.co.uk/Salary/Google-Software-Engineer-Salaries-E9079_D_KO7,24.htm?selectedLocationString=N,226&filter.jobTitleExact=Software+Engineer&employerId=9079&experienceLevel=)
 
-### **Effective Tax Rate on Personal Income against the above salary**: For a married couple with two children, as of January 2023
+### **Effective Tax Rate on Personal Income**: For a married couple with two children, as of January 2023
 
 - Japan: 13.9%
 - USA: 20.0%
